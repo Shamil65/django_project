@@ -1,2 +1,2 @@
 **/.venv
-**/__pycache__
+**/D:\Django 2.0\django_project\mysite\mysite\__pycache__
