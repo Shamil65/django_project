@@ -14,3 +14,4 @@ mysite/polls/migrations/0001_initial.py
 mysite/db.sqlite3
 exp.py
 mysite/db.sqlite3
+result.ps
